@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 
-namespace Zad2
+namespace Afb
 {
     class Program
     {

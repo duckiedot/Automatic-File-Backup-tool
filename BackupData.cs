@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace Zad2
+namespace Afb
 {
     public static class BackupData
     {
